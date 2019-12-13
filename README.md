@@ -24,7 +24,7 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-[https://github.com/hphan2100/hphan2100.github.io/blob/master/Traffic%20Violation.ipynb](url)
+(https://github.com/hphan2100/hphan2100.github.io/blob/master/Traffic%20Violation.ipynb)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
